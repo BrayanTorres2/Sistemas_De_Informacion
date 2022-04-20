@@ -101,7 +101,6 @@ Página para descargar VSCode: [https://code.visualstudio.com/download](https://
 
 ## Instalar WSL: usa Linux dentro de Windows
 
-Ver lectura: [https://platzi.com/clases/2434-jupyter-notebook/40390-wsl-usa-linux-dentro-de-windows/](https://platzi.com/clases/2434-jupyter-notebook/40390-wsl-usa-linux-dentro-de-windows/)
 
 ## Agregar extensiones para VSCode
 

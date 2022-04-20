@@ -1,5 +1,6 @@
 # Sistemas_De_Informacion
 La inminente necesidad del manejo de los procesos en las organizaciones mediante sistemas de información automatizados requiere de un ingeniero de sistemas que tenga la visión integral del manejo de la información las tecnologías de información y la plataforma tecnológica que soporte las operaciones.
+
 ##Comandos avanzados:
 
 ## Google Colab: ciencia de datos
@@ -281,3 +282,5 @@ Mamba se instala a través de Conda con `conda install --channel conda-forge mam
 Para obtener la ayuda de mamba: `mamba --help`
 
 Los comandos de conda para instalar o crear ambientes a partir de un archivo que aprendimos anteriormente también sirven en mamba, simplemente usamos `mamba` en lugar de `conda`
+
+https://deepnote.com/workspace/brayantorres2-9ac9-b841edca-1b4f-4584-bed4-9c4fc08dc254/project/Apuntes-de-Estadistica-Descriptiva-Duplicate-nyUEBf7DRBGuUJG6R_eVxg/%2Ftipos-de-datos.ipynb

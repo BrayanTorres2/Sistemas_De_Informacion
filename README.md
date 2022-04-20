@@ -227,7 +227,7 @@ Para crear un ambiente a partir de otro: `conda create --name <nombre_ambiente_n
 
 ## Conda: abrir VSCode Notebooks con tu ambiente creado
 
-Ver lectura: [https://platzi.com/clases/2434-jupyter-notebook/40396-conda-abrir-vscode-notebooks-con-tu-ambiente/](https://platzi.com/clases/2434-jupyter-notebook/40396-conda-abrir-vscode-notebooks-con-tu-ambiente/)
+
 
 ## Conda: eliminar ambientes y librerías
 
